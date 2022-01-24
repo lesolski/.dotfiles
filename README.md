@@ -1,7 +1,7 @@
 # Configuration files + Toolset 
 ### Tools
 - MacBook Air M1 [2020]
-- [iTerm2](https://iterm2.com/)
+- [iTerm2](https://iterm2.com/){:target="_blank"}
 - [zsh](https://sourceforge.net/projects/zsh/)
 - [git](https://github.com/git/git)
 - [vim](https://github.com/vim/vim)
