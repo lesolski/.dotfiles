@@ -1,7 +1,7 @@
 # Configuration files + Toolset 
 ### Tools
 - MacBook Air M1 [2020]
-- [iTerm2](https://iterm2.com/){:target="_blank"}
+- [iTerm2](https://iterm2.com/)
 - [zsh](https://sourceforge.net/projects/zsh/)
 - [git](https://github.com/git/git)
 - [vim](https://github.com/vim/vim)
@@ -45,7 +45,7 @@
 
 ### Oh-my-zsh Plugins
 - [git](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git)
-- [auto-suggestion](https://github.com/zsh-users/zsh-autosuggestions)
+- [auto-suggestions](https://github.com/zsh-users/zsh-autosuggestions)
 
 ### Languages
 - Python3
