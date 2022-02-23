@@ -16,12 +16,15 @@
 - [homebrew](https://brew.sh/)
 - [apt](https://en.wikipedia.org/wiki/APT_(software))
 - [pip3](https://www.pypa.io/en/latest/)
-- [npm](https://www.npmjs.com)
+- [npm](https://www.npmjs.com/)
+- [NuGet](https://www.nuget.org/)
 
-### OSs
-- [masOS Monterey 12 ](https://www.apple.com/at/macos/monterey/)
+### macOS
+- [Monterey 12](https://www.apple.com/at/macos/monterey/)
+
+### Parallels VM OSs
 - [ubuntu 20.04](https://releases.ubuntu.com/20.04/)
-- Windows 10
+- [Windows 10](https://www.microsoft.com/en-us/software-download/windows10)
 
 ### Vim Plugins
 - [NERDTree](https://github.com/preservim/nerdtree)
@@ -50,4 +53,5 @@
 ### Languages
 - Python3
 - JavaScript
+- C#
 - Bash
